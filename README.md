@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohammed Al-Hobayyeb
+# Hi there 👋, I'm Mohammad Alhobayyeb
 
 **Senior Software Engineer & Technical Leader** based in Riyadh, Saudi Arabia.
 
