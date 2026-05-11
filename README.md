@@ -2,12 +2,12 @@
 
 **Senior Software Engineer & Technical Leader** based in Riyadh, Saudi Arabia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malhobayyeb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/malhobayyeb/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/malhobayyeb)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/malhobayyeb)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@malhobayyeb/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/363339/malhobayyeb)
-[![Product Hunt](https://img.shields.io/badge/Product_Hunt-%23DA552F.svg?style=flat-square&logo=Product-Hunt&logoColor=white)](https://www.producthunt.com/@malhobayyeb/)
+[![Product Hunt](https://img.shields.io/badge/Product_Hunt-%23DA552F.svg?style=flat-square&logo=Product-Hunt&logoColor=white)](https://producthunt.com/@malhobayyeb/)
 
 Currently serving as a Senior Software Engineer at **Elm Company**, I specialize in designing resilient architectures, building highly scalable cloud infrastructure, and leading engineering teams to deliver high-performance software. 
 
