@@ -2,6 +2,8 @@
 
 **Senior Software Engineer & Technical Leader** based in Riyadh, Saudi Arabia.
 
+[LinkedIn](https://www.linkedin.com/in/malhobayyeb/) • [X](https://x.com/malhobayyeb) • [Instagram](https://instagram.com/malhobayyeb) • [YouTube](https://youtube.com/@malhobayyeb/) • [StackOverflow](https://stackoverflow.com/users/363339/malhobayyeb) • [Product Hunt](https://www.producthunt.com/@malhobayyeb/)
+
 Currently serving as a Senior Software Engineer at **Elm Company**, I specialize in designing resilient architectures, building highly scalable cloud infrastructure, and leading engineering teams to deliver high-performance software. 
 
 My engineering philosophy centers on privacy-first design, offline-capable systems, and cross-platform integrity. I focus on bridging the gap between deep native capabilities and modern, unified architectures.
